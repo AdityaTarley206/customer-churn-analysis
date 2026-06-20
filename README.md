@@ -12,7 +12,24 @@ This project focuses on cleaning and analyzing a telecom dataset containing 20,0
 - Presented data-driven retention strategies projected to reduce overall customer churn by 12%.
 
 ## 📸 Analysis Visuals
-> **Note:** *(Take a screenshot of your Python graphs/charts and drag-and-drop them right here when editing on GitHub!)*
+> <img width="1633" height="286" alt="image" src="https://github.com/user-attachments/assets/3f66f5fb-096a-419f-b818-aaa0ddea1106" />
+
+
+  <img width="768" height="718" alt="image" src="https://github.com/user-attachments/assets/14586917-24fa-4f45-b18f-19a3cde12cd6" />
+
+
+  <img width="865" height="591" alt="image" src="https://github.com/user-attachments/assets/875f6bea-45d2-4461-b93e-c04afd3f6cf1" />
+
+
+  <img width="1114" height="709" alt="image" src="https://github.com/user-attachments/assets/3d3de0cb-7e97-4735-b7e1-40a9bcd59a56" />
+
+
+  <img width="1087" height="712" alt="image" src="https://github.com/user-attachments/assets/ce445000-4967-48fd-a843-3ac96dc9a88d" />
+
+
+  <img width="1090" height="715" alt="image" src="https://github.com/user-attachments/assets/d92f917e-cb28-44e2-91af-e588d027685d" />
+
+
 
 ## 🚀 How to Run
 1. Install dependencies: `pip install pandas numpy matplotlib seaborn`
